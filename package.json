@@ -136,7 +136,7 @@
     "@storybook/angular": "~6.2.9",
     "@storybook/react": "~6.2.9",
     "@storybook/source-loader": "~6.2.9",
-    "@storybook/vue": "~6.2.9",
+    "@storybook/vue": "~6.3.12",
     "@storybook/web-components": "~6.2.9",
     "@types/bluebird": "^3.5.36",
     "@types/jasmine": "^3.10.2",
